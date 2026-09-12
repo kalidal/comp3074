@@ -1,0 +1,22 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Generated APKs
+*.apk
+*.aab
+
+# Android Studio generated files
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
